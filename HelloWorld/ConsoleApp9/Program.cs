@@ -1,10 +1,11 @@
-﻿using System
+﻿using System;
 
 namespace ConsoleApp9
 {
     struct Emp
     {
-        public int id; public string name;
+        public int id;
+        public string name;
     }
 
     class EmpTest

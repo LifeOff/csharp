@@ -12,7 +12,7 @@ namespace ConsoleApp5
                 return "Emp";
             }
         }
-    class Programmer : Emp { }
+    class Programmer : Emp { } // 상속
     class Program
     {
         static void Main()

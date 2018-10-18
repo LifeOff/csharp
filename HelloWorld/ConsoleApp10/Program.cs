@@ -9,7 +9,7 @@ namespace ConsoleApp10
             string str = Console.ReadLine();
             // int num = int.Parse(str);
             int num;
-            if (int.TryParse(str, out num))
+            if (int.TryParse(str, out num)) // true or false
                 Console.WriteLine("OK");
 
             int sum = 0, i = 0;

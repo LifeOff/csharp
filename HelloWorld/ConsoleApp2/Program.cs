@@ -26,7 +26,8 @@ namespace ConsoleApp2
             const string name = "홍길동";
             Console.WriteLine("name : " + name);
 
-            //name = "김길동"; //오류
+            //name = "김길동"; //오류
+
 
         }
     }
